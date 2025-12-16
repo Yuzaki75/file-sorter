@@ -21,8 +21,8 @@ No install needed—just clone or download the repository.
 
 ```powershell
 # Clone (requires Git)
-git clone "https://github.com/<your-username>/<your-repo>.git"
-cd "<your-repo>"
+git clone "https://github.com/Yuzaki75/file-sorter.git"
+cd "file-sorter"
 
 # Or download the ZIP from GitHub and extract
 ```
